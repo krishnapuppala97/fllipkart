@@ -14,3 +14,20 @@ git push fp branch name
 DELETE REMOTE BRANCHES
 ----------------------
 git push fp :branch name
+
+git chechkout -d branch 
+
+
+-------------------------------------------------
+git branch ------------> it's shows the all branch's and current branch
+
+git log -------> show git logs ( commit id's)
+git log --oneline ------> show git commits oneline.
+ 
+git log -2 -------> show latest 2 commits
+
+git show --------> it's shows the all commit id's and all commiteed files details..
+git show --pretty="" --name-only commit id( 6 to 7 numbers) show only file names
+
+git revert commit id -------> delete the files from remote , stagging , working, local repository..
+
