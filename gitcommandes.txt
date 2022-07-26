@@ -1,0 +1,16 @@
+ 
+
+git remote add fp https://github.com/krishnapuppala97/fllipkart.git
+
+git remote -----> show ailias name only
+
+git remote -v -----> show ailias name & https://github.com/krishnapuppala97/fllipkart.git link
+
+git push fp master
+
+
+git push fp branch name
+
+DELETE REMOTE BRANCHES
+----------------------
+git push fp :branch name
